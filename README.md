@@ -1,16 +1,11 @@
 # learning_biometrics
 
-A new Flutter project.
+A Flutter Snippet used in class to learn how to instance Face or Fingerprint Biometric Authentication
 
-## Getting Started
+## Steps
 
-This project is a starting point for a Flutter application.
+### Change the Android Activity to be a FlutterFragmentActivity
+### Add permisions to AndroidManifest
+### Add permisions to Info.plist
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
